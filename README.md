@@ -3,6 +3,8 @@ Get the most recent activity data for enabled users of Microsoft 365 Copilot app
 
 These PowerShell scripts will export M365 Copilot User Details using Graph API Beta getMicrosoft365CopilotUsageUserDetail.
 
+The user running this script will need "Reports.Read.All" Graph API Pemission.
+
 ## cpusrdetail.ps1 ##
 Outputs a CSV file to your My Documents folder with the date and time when it was run.  E.g. 20250312_114000cpusrdetails.csv.
 
