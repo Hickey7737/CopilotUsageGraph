@@ -2,8 +2,8 @@
 Get the most recent activity data for enabled users of Microsoft 365 Copilot apps and export to CSV.  Build a user leaderboard.
 
 Notes:\
--These PowerShell scripts will export M365 Copilot User Details using Graph API Beta getMicrosoft365CopilotUsageUserDetail.
--The user running this script will need "Reports.Read.All" Graph API Pemission.
+-These PowerShell scripts will export M365 Copilot User Details using Graph API Beta getMicrosoft365CopilotUsageUserDetail.\
+-The user running this script will need "Reports.Read.All" Graph API Pemission.\
 
 IMPORTANT:  Copilot activity data in Microsoft Admin Center and Graph API becomes available within 72 hours of the end of that day (in UTC).
 
