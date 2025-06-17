@@ -10,6 +10,7 @@ IMPORTANT:  Copilot activity data in Microsoft Admin Center and Graph API become
 For step-by-step walkthrough on how to utilize Graph API and build user leaderboard, see this video:
 
   ![](https://github.com/Hickey7737/CopilotUsageGraph/blob/main/vid%20thumb.png)
+  
   [https://www.youtube.com/watch?v=QNyZxOiL6cs](https://youtu.be/u_b0eMi6mSc)
   
 ## cpusrdetail.ps1 ##
