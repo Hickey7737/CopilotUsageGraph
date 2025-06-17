@@ -9,8 +9,8 @@ IMPORTANT:  Copilot activity data in Microsoft Admin Center and Graph API become
 
 For step-by-step walkthrough on how to utilize Graph API and build user leaderboard, see this video - [https://www.youtube.com/watch?v=QNyZxOiL6cs](https://youtu.be/u_b0eMi6mSc)
 
-  ![]([https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/video.jpg](https://youtu.be/u_b0eMi6mSc))
-
+  ![](https://github.com/Hickey7737/CopilotUsageGraph/blob/main/vid%20thumb.png)
+  
 ## cpusrdetail.ps1 ##
 Outputs a CSV file to your My Documents folder with the date and time when it was run.  E.g. 20250312_114000cpusrdetails.csv.
 
