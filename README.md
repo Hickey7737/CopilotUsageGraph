@@ -7,7 +7,7 @@ The user running this script will need "Reports.Read.All" Graph API Pemission.
 
 IMPORTANT:  Copilot activity data in Microsoft Admin Center and Graph API becomes available within 72 hours of the end of that day (in UTC).
 
-For step-by-step walkthrough on how to utilize Graph API and build end user leaderboard, see this video - [https://www.youtube.com/watch?v=QNyZxOiL6cs](https://youtu.be/u_b0eMi6mSc)
+For step-by-step walkthrough on how to utilize Graph API and build user leaderboard, see this video - [https://www.youtube.com/watch?v=QNyZxOiL6cs](https://youtu.be/u_b0eMi6mSc)
 
   ![]([https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/video.jpg](https://youtu.be/u_b0eMi6mSc))
 
