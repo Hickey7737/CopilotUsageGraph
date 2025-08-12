@@ -14,7 +14,7 @@ For step-by-step walkthrough on how to utilize Graph API and build user leaderbo
   [https://www.youtube.com/watch?v=QNyZxOiL6cs](https://youtu.be/u_b0eMi6mSc)
   
 ## cpusrdetail.ps1 ##
-Exports M365 Copiot User Usage. Outputs a CSV file to your My Documents folder with the date and time when it was run.  E.g. 20250312_114000cpusrdetails.csv.
+Exports M365 Copilot User Usage. Outputs a CSV file to your My Documents folder with the date and time when it was run.  E.g. 20250312_114000cpusrdetails.csv.
 
 The CSV will include the following columns:
 "reportRefreshDate","UserPrincipalName","DisplayName","LastActivityDate","copilotChatLastActivityDate","microsoftTeamsCopilotLastActivityDate","wordCopilotLastActivityDate","excelCopilotLastActivityDate","powerPointCopilotLastActivityDate","outlookCopilotLastActivityDate","oneNoteCopilotLastActivityDate","loopCopilotLastActivityDate"
